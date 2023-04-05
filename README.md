@@ -58,8 +58,6 @@ Replace `your_api_key_here` with your actual LTA DataMall API key.
 - [dotenv](https://www.npmjs.com/package/dotenv) - Loads environment variables from a `.env` file
 - [yargs](https://www.npmjs.com/package/yargs) - A command-line argument parser for Node.js
 
-## License
 
-This project is licensed under the ISC License.
 
 
